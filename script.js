@@ -1,7 +1,5 @@
 
-
-// video 82 
-
+// Shopping List Pertaining Videos
 
 // video 81
 // removing DOM elements
